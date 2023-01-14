@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "979698199508",
+    "project_id": "doc-udi-f231c",
+    "storage_bucket": "doc-udi-f231c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979698199508:android:6978de30a9b63bc51f4441",
+        "android_client_info": {
+          "package_name": "com.example.vinhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979698199508-kubh4htbkc400u8mkbih6qtvk8mkru0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinhack",
+            "certificate_hash": "4a2b49f5cfdbaf8097e1a8740f5f2a11a7633e1c"
+          }
+        },
+        {
+          "client_id": "979698199508-vnbucbsikslgqd7g1roifj6a9vlej522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5eSRQcyWDWmANA4IIl5F9VX9HyEUMW-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979698199508-vnbucbsikslgqd7g1roifj6a9vlej522.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979698199508-eg9m819lqe59n1tmtgh2qpqpd4267feq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vinhack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
